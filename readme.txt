@@ -1,4 +1,4 @@
-Welcome to my Project
+Welcome to my Git for beginners Project
 
 Author: Udayy kiran
 Twitter:udayyish
